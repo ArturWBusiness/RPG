@@ -1,0 +1,7 @@
+dictionary = {
+    "": ""
+}
+
+conversation = {
+    "":""
+}
